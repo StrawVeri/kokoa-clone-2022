@@ -114,9 +114,3 @@
   /* 브라우저에게 렌더링 힌트를 주고, element에 실행되길 기대하는 변화를 명시함*/
   animation: heartBeat 1s linear infinite;
 }
-.open-chat {
-  overflow-y: scroll;
-  overflow-x: hidden;
-  width: 100%;
-  height: 480px;
-}
