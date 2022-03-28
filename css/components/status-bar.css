@@ -7,6 +7,10 @@
   width: 100%;
   box-sizing: border-box;
 }
+.status-bar:not(.blue-status) {
+  background-color: white;
+  z-index: 99;
+}
 /* css hack */
 .status-bar__column {
   display: flex;

@@ -13,6 +13,7 @@
 .chat-screen .status-bar,
 .screen-header-chat {
   background-color: rgb(171, 193, 209);
+  z-index: 99;
 }
 .screen-header-chat h1 {
   font-size: 26px;

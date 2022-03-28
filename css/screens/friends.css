@@ -40,6 +40,7 @@
   align-items: center;
   font-size: 122px;
   animation: hideSplashScreen 0.5s ease-in-out forwards;
+  z-index: 100;
   /* 애니메이션이 끝나면 원래대로 돌아간다 without forwards
   opacity 만 설정해놓으면 애니메이션이 끝난 후 원래 elements를 클릭할 수 없다 
   아예 지워버리려면 javascript 필요 */

@@ -29,6 +29,7 @@ body {
 
 .main-screen {
   margin: 0px var(--horizontal-space);
+  margin-bottom: 80px;
 }
 .ntfcn {
   position: relative;
