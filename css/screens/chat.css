@@ -297,6 +297,7 @@ flex container 에 flex-direction: row-reverse; 를 주는 방법으로도 가�
 }
 .reply:focus-within input {
   transform: translateX(-5.5%) translateY(-80px) scaleX(1.2);
+  border-radius: 15px;
 }
 .reply:focus-within {
   transform: translateY(80px);
